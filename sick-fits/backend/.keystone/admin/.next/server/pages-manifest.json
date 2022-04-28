@@ -2,6 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/signin": "pages/signin.js",
-  "/users/[id]": "pages/users/[id].js"
+  "/products/[id]": "pages/products/[id].js",
+  "/product-images": "pages/product-images.js",
+  "/products": "pages/products.js"
 }
